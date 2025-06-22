@@ -5,7 +5,7 @@ Aspiring Full-Stack Developer | Cybersecurity Enthusiast | Open-Source Contribut
 🔍 About Me
 - 🎓 Pursuing a BSc in Information Technology at Mount Kenya University (Graduation: Dec 2025).  
 - 💻 Passionate about web development, mobile apps, and cybersecurity.  
-- 🌱 Currently learning Angular,react,next and typescript and UI/UX principles.  
+- 🌱 Currently learning Angular,react,next,typescript and UI/UX principles.  
 - ✨ Strengths: Problem-solving, teamwork, and rapid adaptation to new tech.  
 
  🛠 Tech Stack  
