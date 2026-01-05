@@ -1,5 +1,5 @@
 👋 Hi, I'm Anita Boke Ambani  
-Aspiring Full-Stack Developer | Cybersecurity Enthusiast | AI & Open-Source Contributor  
+Full-Stack Developer | Cybersecurity Enthusiast | AI & Open-Source Contributor | Network & Threat Detection
 📍 Nairobi, Kenya | 📧 [wintahboke@gmail.com](mailto:wintahboke@gmail.com)
 
 
